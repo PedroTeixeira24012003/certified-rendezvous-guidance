@@ -1,10 +1,7 @@
 
 # Machine Learning for Surrogate Optimal Rendezvous Guidance
 
-Code for my MSc thesis at Cranfield University, 2026. An NMPC expert flies
-a near-GEO proximity approach, a neural network is trained to clone it, a
-CBF-CLF safety filter certifies its commands at every step, and the whole
-stack is stress tested on a six rung disturbance ladder against the expert.
+Code for my MSc thesis at Cranfield University, 2026
 
 ## Layout
 
