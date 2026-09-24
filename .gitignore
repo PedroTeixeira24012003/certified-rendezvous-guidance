@@ -216,3 +216,12 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Thesis data and outputs, code only in this repository
+*.npz
+*.pt
+*.csv
+*.log
+*.png
+*.pdf
+checkpoints/
